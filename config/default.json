@@ -1,0 +1,12 @@
+{
+    "server": {
+    "host": "localhost",
+    "port": 3000
+    },
+    "apiURL": "https://sandbox-oce0002.cec.ocp.oraclecloud.com/content/management/api/v1.1/",
+    "baseURL": "https://sandbox-oce0002.cec.ocp.oraclecloud.com/",
+    "repoId": "0946C075EB5B44F5945C0B54C0AC39CF",
+    "accessToke" : "",
+    "eloquaURL"  : "https://secure.p01.eloqua.com/api/rest/2.0/",
+    "eloquaToken" : "T3JhY2xlUE9DXEthbWFsLkthcHVyOk9yYWNsZVRlc3QxMjM="
+}
