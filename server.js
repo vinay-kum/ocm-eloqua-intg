@@ -20,7 +20,7 @@ function replaceIdWithLink(html) {
         config.get("baseURL") +
         "content/published/api/v1.1/assets/" +
         contentId.match(/(?<=\-\-\])(.*?)(?=\[\/)/g) +
-        "?channelToken=" +
+        "/native?channelToken=" +
         config.get("channelToken")
       );
     }
