@@ -8,6 +8,9 @@
     "repoId": "0946C075EB5B44F5945C0B54C0AC39CF",
     "accessToke" : "",
     "eloquaURL"  : "https://secure.p01.eloqua.com/api/rest/2.0/",
-    "eloquaToken" : "T3JhY2xlUE9DXEthbWFsLkthcHVyOk9yYWNsZVRlc3QxMjM=",
-    "channelToken" : "f6b9336956b14d46bb8c95ea0725a67a"
+    "eloquaToken" : "T3JhY2xlUE9DXEthbWFsLkthcHVyOldlbGNvbWUxMjM0NSM=",
+    "eloquaEmailId": "4826",
+    "emailContentId": "cont",
+    "channelToken" : "f6b9336956b14d46bb8c95ea0725a67a",
+    "ocmToken" : "xyz"
 }
